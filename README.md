@@ -64,5 +64,3 @@ Do not commit `node_modules/`, `dist/`, `.DS_Store`, or local environment files.
 ## License
 
 This project uses the MIT License.
-
-MIT is a good fit for this project because it is a lightweight front-end tool and the license keeps reuse, modification, private use, and redistribution simple. Apache License 2.0 is also permissive and adds an explicit patent grant, but that extra structure is usually more valuable for larger projects, corporate contributions, or software with meaningful patent exposure.
